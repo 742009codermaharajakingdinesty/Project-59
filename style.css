@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+    background: linear-gradient(yellow 2%,red 94%);
+    background-repeat: no-repeat;
+}
+.menu{
+    list-style: none;
+     font-family:cursive;
+    float:right;
+     top:10px;
+     right:30px;
+     cursor: pointer;
+     color:black;
+ }
+h1 {
+    text-shadow:2px 2px greenyellow;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: indigo;
+}
+#welcome{
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img {
+    border-radius: 80%;
+    width: 100px;
+}
+#discription {
+    font-size: 18px;
+    color:lime ;
+}
+#bio{
+    color: darkturquoise;
+    background: linear-gradient(greenyellow 4%,red 2%);
+}
+.links{
+    color:crimson;
+    display: inline;
+    padding-top:5px;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom: 5px;
+}
+   .links:hover{
+    background-color:dodgerblue;
+}
+#starter_section{
+    font-weight: bold;
+    font-style: italic;
+}
